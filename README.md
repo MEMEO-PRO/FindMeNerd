@@ -1,2 +1,1 @@
-# FindMeNerd
-Engineers Find yourself a compatible partner
+This is a Project made for a hackathon HACKODISHA 03
