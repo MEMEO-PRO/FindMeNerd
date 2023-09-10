@@ -8,4 +8,5 @@ spacy
 
 NLP model:
 en_core_web_lg
-#It uses en_core_web_lg to find the compatibility between two people. Its a natural language processing model.
+
+It uses en_core_web_lg to find the compatibility between two people. Its a natural language processing model.
